@@ -3,7 +3,7 @@
 //  Guam Airport Guide
 //
 //  Created by SmugWimp on 3/16/19.
-//  Copyright © 2019 Marianas GPS, LLC. All rights reserved.
+//  Copyright © 2019 SmugWimp All rights reserved.
 //
 
 
